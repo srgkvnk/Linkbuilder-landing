@@ -1,0 +1,14 @@
+ <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <rect class="color" x="0.607788" y="0.199707" width="23.8609" height="23.8515" rx="8" fill="#CDCDCD" />
+                            <g clip-path="url(#clip0)">
+                                <path
+                                    d="M10.1809 14.0539L9.92976 17.7634C10.2891 17.7634 10.4448 17.6013 10.6314 17.4067L12.3162 15.716L15.8073 18.4005C16.4476 18.7751 16.8987 18.5778 17.0714 17.782L19.363 6.50734L19.3636 6.50668C19.5667 5.51287 19.0213 5.12425 18.3975 5.36805L4.92783 10.7828C4.00856 11.1575 4.02247 11.6956 4.77156 11.9394L8.21521 13.0641L16.2141 7.80872C16.5906 7.54698 16.9328 7.6918 16.6513 7.95354L10.1809 14.0539Z"
+                                    fill="#222222" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0">
+                                    <rect width="15.1842" height="15.9434" fill="white"
+                                        transform="translate(4.22306 3.96924)" />
+                                </clipPath>
+                            </defs>                            <style>.color:hover {fill: #BD00FF; transition: all 3.s; cursor: pointer;}</style>
+                        </svg> 

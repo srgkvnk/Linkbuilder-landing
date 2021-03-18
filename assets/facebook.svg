@@ -1,0 +1,23 @@
+<svg width="25" height="25" viewBox="0 0 25 25" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <rect class="color" x="0.856934" y="0.199707" width="23.8609" height="23.8515" rx="8" fill="#CDCDCD" />
+                            <g clip-path="url(#clip0)">
+                                <path id="inside"
+                                    d="M12.7875 4.56543C8.59447 4.56543 5.1953 7.96459 5.1953 12.1576C5.1953 15.9182 7.93242 19.0326 11.5212 19.6357V13.7415H9.68979V11.6204H11.5212V10.0564C11.5212 8.24173 12.6296 7.25283 14.2487 7.25283C15.0241 7.25283 15.6905 7.31061 15.8839 7.33606V9.23289L14.761 9.23344C13.8807 9.23344 13.711 9.65168 13.711 10.2656V11.6193H15.8115L15.5375 13.7404H13.711V19.6864C17.4673 19.2292 20.3795 16.0355 20.3795 12.1554C20.3795 7.96459 16.9803 4.56543 12.7875 4.56543Z"
+                                    fill="#222222" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0">
+                                    <rect width="15.1842" height="15.1842" fill="white"
+                                        transform="translate(5.1953 4.53369)" />
+                                </clipPath>
+                            </defs> <style>
+                            .color {
+                                 fill: #CDCDCD; transition: all 3.s; cursor: pointer;
+                            }
+
+                            .color:hover {
+                                fill: #BD00FF; transition: all 3.s; cursor: pointer;
+                                }
+                                </style>
+                        </svg>
